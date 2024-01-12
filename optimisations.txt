@@ -1,0 +1,1 @@
+get width using image directly
